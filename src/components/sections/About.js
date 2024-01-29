@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Steven
+                Ashish
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Walker
+                Prasad
               </span>
             </span>
           </h2>
@@ -36,7 +36,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Age :</span>
-                    <span>27 Years</span>
+                    <span>25 Years</span>
                   </span>
                 </span>
               </li>
@@ -44,15 +44,15 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Nationality :</span>
-                    <span>German</span>
+                    <span>Indian</span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Freelance :</span>
-                    <span>Available</span>
+                    <span>Fulltime :</span>
+                    <span>Team Pumpkin</span>
                   </span>
                 </span>
               </li>
@@ -60,7 +60,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Langages :</span>
-                    <span>English</span>
+                    <span>English, Hindi</span>
                   </span>
                 </span>
               </li>
@@ -70,7 +70,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
-                    <span>London</span>
+                    <span>Delhi-NCR</span>
                   </span>
                 </span>
               </li>
@@ -78,7 +78,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Phone :</span>
-                    <span>21 184 010</span>
+                    <span>870 940 9827</span>
                   </span>
                 </span>
               </li>
@@ -86,7 +86,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span>contact@steven.net</span>
+                    <span>workashishprasad@gmail.com</span>
                   </span>
                 </span>
               </li>
